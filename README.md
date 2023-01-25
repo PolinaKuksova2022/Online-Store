@@ -1,4 +1,4 @@
 # Online Store
 
-https://PolinaKuksova2022.github.io/online-store/gh-pages
+https://PolinaKuksova2022.github.io/Online-Store
 
