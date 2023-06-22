@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9479156.css",
+    "main.js": "/static/js/main.03c3760a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logoMaestro.png": "/static/media/logoMaestro.71ec6c454eea71fc9251.png",
+    "static/media/logoVisa.png": "/static/media/logoVisa.bbc069236b5577004d4d.png",
+    "static/media/rs_school.svg": "/static/media/rs_school.ad178c0df28bc133be34b982d62f431d.svg",
+    "static/media/github-icon.svg": "/static/media/github-icon.7c5f8c05922fa324a5a533d0fd5a3837.svg",
+    "index.html": "/index.html",
+    "main.a9479156.css.map": "/static/css/main.a9479156.css.map",
+    "main.03c3760a.js.map": "/static/js/main.03c3760a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9479156.css",
+    "static/js/main.03c3760a.js"
+  ]
+}
