@@ -34,4 +34,4 @@ $ npm run start
 - валидация данных
 - RRD
 
-Работа выполнена командной из двух человек в репозитории [ссылка](https://github.com/ShkredovDmitriy/online-store/tree/develop)
+Работа выполнена командной из двух человек в репозиторие [ссылка](https://github.com/ShkredovDmitriy/online-store/tree/develop)
